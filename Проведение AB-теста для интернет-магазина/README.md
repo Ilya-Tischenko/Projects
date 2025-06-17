@@ -1,4 +1,5 @@
 # Приоритизация гипотез и анализ A/B-теста для интернет магазина
+[Jupyter тетрадь](https://github.com/Ilya-Tischenko/Projects/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb)
 
 Приоритизация предложенных гипотез фреймворками ICE и RICE. Анализ A/B-теста.
 
