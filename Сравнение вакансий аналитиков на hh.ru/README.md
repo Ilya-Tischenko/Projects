@@ -1,12 +1,12 @@
 # Сравнение вакансий аналитиков на hh.ru
-[Jupyter тетрадь](https://github.com/Ilya-Tischenko/Projects/blob/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20hh.ru/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20hh.ru.ipynb)
+[Jupyter тетрадь](https://github.com/Ilya-Tischenko/Projects/blob/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20hh.ru/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20hh.ru.ipynb)
 
 Сравнение различных признаков вакансий (зарплаты, график, требуемые навыки и пр.) для системных аналитиков и аналитиков данных на hh.ru
 
 **Цель исследования**: выявить различия в предлагаемых вакансиях для аналитиков данных и системных аналитиков.
 
 ## Стек
-Python, Pandas, Matplotlib, Seaborn
+Python, Pandas, Matplotlib, Seaborn, SciPy
 
 ## Выводы
 Исследование показало как сходства, так и некоторые различия в вакансия для двух профессий.
