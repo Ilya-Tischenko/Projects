@@ -131,6 +131,6 @@ m.customers_this_month,
 t.total_customers,
 ROUND((m.customers_this_month::real / t.total_customers::real * 100)::numeric,2)
 FROM total t 
-
 LEFT JOIN month_customers m ON t.month_ = m.month_
+
 
