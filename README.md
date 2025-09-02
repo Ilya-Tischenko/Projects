@@ -7,11 +7,11 @@
 
 **Стек**: Python, Pandas, Matplotlib, Seaborn, Re, Tableau
 
-### [Сравнение вакансий аналитиков на hh.ru](https://github.com/Ilya-Tischenko/Projects/tree/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20hh.ru)
+### [Анализ рынка вакансий аналитиков](https://github.com/Ilya-Tischenko/Projects/tree/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20hh.ru)
 
-Сравнение характеристик вакансий аналитиков данных и системных аналитиков на hh.ru.
+Анализ рынка вакансий аналитиков данных и системных аналитиков на hh.ru для компании с целью дальнейшего формирования корректных предложений к кандидатам на данные должности.
 
-**Стек**: Python, Pandas, Matplotlib, Seaborn
+**Стек**: Python, Pandas, Matplotlib, Seaborn, SciPy
 
 ### [Данные о космических полетах России и СССР](https://github.com/Ilya-Tischenko/Projects/tree/main/%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%85%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%A1%D0%A1%D0%A1%D0%A0)
 
